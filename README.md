@@ -31,6 +31,11 @@ The project applies exploratory data analysis techniques to:
 - Compare characteristics of high-performing and typical games
 - Visualize trends using statistical plots and charts
 
+## Price Distribution on Steam
+The following visualization shows the distribution of game prices on Steam. The market is heavily skewed towards low-priced and free-to-play titles, indicating strong competition in lower price segments.
+
+![Distribution of Steam Game Prices](images/price_distribution.png)
+
 ## Key Insights
 - The Steam market is dominated by low-priced and free-to-play titles
 - Higher prices do not necessarily lead to better user review scores
